@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523326876485",
+    "project_id": "pdfapp-2",
+    "storage_bucket": "pdfapp-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523326876485:android:d35e228e6a9014d326ac2c",
+        "android_client_info": {
+          "package_name": "com.example.pdfapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523326876485-tm9cvt70g7e8jdvatcok2haftv339j05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pdfapp",
+            "certificate_hash": "b6332ea2ac4292b1b434e5aa943fdf7c5dcd1594"
+          }
+        },
+        {
+          "client_id": "523326876485-tc0b84l3uvn4jjbpfmi2q2i2vthv7p6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGAPH0DMsV_gXKK501DpyNIZW1dHHgrNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523326876485-tc0b84l3uvn4jjbpfmi2q2i2vthv7p6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
